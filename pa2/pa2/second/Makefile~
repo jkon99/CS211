@@ -1,0 +1,6 @@
+all: second
+
+second: second.c
+
+
+clean:
